@@ -1,0 +1,175 @@
+2023-10-23 00:00:41,944 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:00:41,958 - werkzeug - INFO -  * Restarting with stat
+2023-10-23 00:00:42,839 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:00:42,902 - werkzeug - INFO -  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2023-10-23 00:01:07,562 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:01:07] "GET / HTTP/1.1" 200 -
+2023-10-23 00:01:07,583 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:01:07] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+2023-10-23 00:01:07,815 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:01:07] "[36mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-10-23 00:01:07,923 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:01:07] "[36mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-10-23 00:01:07,924 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:01:07] "[36mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-10-23 00:01:08,331 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:01:08] "GET /swagger.json HTTP/1.1" 200 -
+2023-10-23 00:01:08,335 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:01:08] "[36mGET /swaggerui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-10-23 00:07:06,427 - werkzeug - INFO -  * Detected change in 'E:\\Bootcamp\\TugasPython\\app\\views\\admin.py', reloading
+2023-10-23 00:07:06,519 - werkzeug - INFO -  * Restarting with stat
+2023-10-23 00:07:07,400 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:07:07,459 - werkzeug - INFO -  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2023-10-23 00:19:54,448 - werkzeug - INFO -  * Detected change in 'E:\\Bootcamp\\TugasPython\\app\\views\\author.py', reloading
+2023-10-23 00:19:54,536 - werkzeug - INFO -  * Restarting with stat
+2023-10-23 00:19:55,426 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:19:55,460 - werkzeug - INFO -  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2023-10-23 00:22:43,580 - werkzeug - INFO -  * Detected change in 'E:\\Bootcamp\\TugasPython\\app\\views\\borrower.py', reloading
+2023-10-23 00:22:43,679 - werkzeug - INFO -  * Restarting with stat
+2023-10-23 00:22:44,595 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:22:44,629 - werkzeug - INFO -  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2023-10-23 00:23:44,933 - werkzeug - INFO -  * Detected change in 'E:\\Bootcamp\\TugasPython\\app\\views\\borrowing.py', reloading
+2023-10-23 00:23:45,024 - werkzeug - INFO -  * Restarting with stat
+2023-10-23 00:23:45,935 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:23:45,972 - werkzeug - INFO -  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2023-10-23 00:25:37,915 - werkzeug - INFO -  * Detected change in 'E:\\Bootcamp\\TugasPython\\app\\views\\auth.py', reloading
+2023-10-23 00:25:38,004 - werkzeug - INFO -  * Restarting with stat
+2023-10-23 00:25:38,904 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:25:38,948 - werkzeug - INFO -  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2023-10-23 00:27:20,656 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:27:38,516 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:27:51,484 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:28:46,435 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:28:46,445 - werkzeug - INFO -  * Restarting with stat
+2023-10-23 00:28:47,287 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:28:47,349 - werkzeug - INFO -  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2023-10-23 00:29:01,558 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:29:01] "GET / HTTP/1.1" 200 -
+2023-10-23 00:29:01,595 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:29:01] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+2023-10-23 00:29:01,809 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:29:01] "[36mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-10-23 00:29:01,874 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:29:01] "[36mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-10-23 00:29:01,874 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:29:01] "[36mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-10-23 00:29:02,221 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:29:02] "GET /swagger.json HTTP/1.1" 200 -
+2023-10-23 00:29:02,223 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:29:02] "[36mGET /swaggerui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-10-23 00:29:17,010 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:29:17] "[35m[1mPOST /auth/signup HTTP/1.1[0m" 500 -
+2023-10-23 00:31:27,752 - werkzeug - INFO -  * Detected change in 'E:\\Bootcamp\\TugasPython\\app\\utils\\utils.py', reloading
+2023-10-23 00:31:27,862 - werkzeug - INFO -  * Restarting with stat
+2023-10-23 00:31:28,739 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:31:28,788 - werkzeug - INFO -  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2023-10-23 00:31:38,445 - sqlalchemy.engine.Engine - INFO - SELECT DATABASE()
+2023-10-23 00:31:38,445 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2023-10-23 00:31:38,447 - sqlalchemy.engine.Engine - INFO - SELECT @@sql_mode
+2023-10-23 00:31:38,447 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2023-10-23 00:31:38,448 - sqlalchemy.engine.Engine - INFO - SELECT @@lower_case_table_names
+2023-10-23 00:31:38,449 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2023-10-23 00:31:38,450 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2023-10-23 00:31:38,454 - sqlalchemy.engine.Engine - INFO - SELECT admin.id AS admin_id, admin.email AS admin_email, admin.password AS admin_password 
+FROM admin 
+WHERE admin.email = %(email_1)s 
+ LIMIT %(param_1)s
+2023-10-23 00:31:38,455 - sqlalchemy.engine.Engine - INFO - [generated in 0.00133s] {'email_1': 'anjarwhydi@gmail', 'param_1': 1}
+2023-10-23 00:31:38,758 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:31:38] "[35m[1mPOST /auth/signup HTTP/1.1[0m" 500 -
+2023-10-23 00:33:14,877 - werkzeug - INFO -  * Detected change in 'E:\\Bootcamp\\TugasPython\\app\\views\\auth.py', reloading
+2023-10-23 00:33:14,983 - werkzeug - INFO -  * Restarting with stat
+2023-10-23 00:33:15,863 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:33:15,905 - werkzeug - INFO -  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2023-10-23 00:33:22,900 - sqlalchemy.engine.Engine - INFO - SELECT DATABASE()
+2023-10-23 00:33:22,900 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2023-10-23 00:33:22,901 - sqlalchemy.engine.Engine - INFO - SELECT @@sql_mode
+2023-10-23 00:33:22,901 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2023-10-23 00:33:22,903 - sqlalchemy.engine.Engine - INFO - SELECT @@lower_case_table_names
+2023-10-23 00:33:22,903 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2023-10-23 00:33:22,903 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2023-10-23 00:33:22,904 - sqlalchemy.engine.Engine - INFO - SELECT admin.id AS admin_id, admin.email AS admin_email, admin.password AS admin_password 
+FROM admin 
+WHERE admin.email = %(email_1)s 
+ LIMIT %(param_1)s
+2023-10-23 00:33:22,905 - sqlalchemy.engine.Engine - INFO - [generated in 0.00062s] {'email_1': 'anjarwhydi@gmail', 'param_1': 1}
+2023-10-23 00:33:23,144 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:33:23] "[35m[1mPOST /auth/signup HTTP/1.1[0m" 500 -
+2023-10-23 00:34:35,902 - werkzeug - INFO -  * Detected change in 'E:\\Bootcamp\\TugasPython\\app\\models\\admin.py', reloading
+2023-10-23 00:34:35,999 - werkzeug - INFO -  * Restarting with stat
+2023-10-23 00:34:36,888 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:34:36,938 - werkzeug - INFO -  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2023-10-23 00:34:41,640 - sqlalchemy.engine.Engine - INFO - SELECT DATABASE()
+2023-10-23 00:34:41,640 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2023-10-23 00:34:41,640 - sqlalchemy.engine.Engine - INFO - SELECT @@sql_mode
+2023-10-23 00:34:41,642 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2023-10-23 00:34:41,642 - sqlalchemy.engine.Engine - INFO - SELECT @@lower_case_table_names
+2023-10-23 00:34:41,642 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2023-10-23 00:34:41,643 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2023-10-23 00:34:41,644 - sqlalchemy.engine.Engine - INFO - SELECT admin.id AS admin_id, admin.email AS admin_email, admin.password AS admin_password 
+FROM admin 
+WHERE admin.email = %(email_1)s 
+ LIMIT %(param_1)s
+2023-10-23 00:34:41,645 - sqlalchemy.engine.Engine - INFO - [generated in 0.00063s] {'email_1': 'anjarwhydi@gmail', 'param_1': 1}
+2023-10-23 00:34:41,826 - sqlalchemy.engine.Engine - INFO - INSERT INTO admin (email, password) VALUES (%(email)s, %(password)s)
+2023-10-23 00:34:41,827 - sqlalchemy.engine.Engine - INFO - [generated in 0.00046s] {'email': 'anjarwhydi@gmail', 'password': '$2b$12$x2hkQK7178.a2P8QkKPDg.102opx2BPBZzmL0mRBKeoIyRzzbwYQS'}
+2023-10-23 00:34:41,838 - sqlalchemy.engine.Engine - INFO - COMMIT
+2023-10-23 00:34:41,840 - test-logger - INFO - Data: <Admin 1>
+2023-10-23 00:34:41,842 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2023-10-23 00:34:41,842 - sqlalchemy.engine.Engine - INFO - SELECT admin.id AS admin_id, admin.email AS admin_email, admin.password AS admin_password 
+FROM admin 
+WHERE admin.id = %(pk_1)s
+2023-10-23 00:34:41,843 - sqlalchemy.engine.Engine - INFO - [generated in 0.00042s] {'pk_1': 1}
+2023-10-23 00:34:41,844 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2023-10-23 00:34:41,845 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:34:41] "[35m[1mPOST /auth/signup HTTP/1.1[0m" 201 -
+2023-10-23 00:38:15,883 - werkzeug - INFO -  * Detected change in 'E:\\Bootcamp\\TugasPython\\app\\__init__.py', reloading
+2023-10-23 00:38:15,992 - werkzeug - INFO -  * Restarting with stat
+2023-10-23 00:38:16,887 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:38:16,927 - werkzeug - INFO -  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2023-10-23 00:38:21,349 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:38:21] "GET / HTTP/1.1" 200 -
+2023-10-23 00:38:21,362 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:38:21] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+2023-10-23 00:38:21,583 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:38:21] "[36mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-10-23 00:38:21,669 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:38:21] "[36mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-10-23 00:38:21,671 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:38:21] "[36mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-10-23 00:38:22,085 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:38:22] "GET /swagger.json HTTP/1.1" 200 -
+2023-10-23 00:38:22,087 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:38:22] "[36mGET /swaggerui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-10-23 00:39:12,838 - werkzeug - INFO -  * Detected change in 'E:\\Bootcamp\\TugasPython\\app\\views\\admin.py', reloading
+2023-10-23 00:39:12,931 - werkzeug - INFO -  * Restarting with stat
+2023-10-23 00:39:13,893 - test-logger - DEBUG - Initial run API FLASK
+2023-10-23 00:39:13,921 - werkzeug - INFO -  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2023-10-23 00:39:17,072 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:39:17] "GET / HTTP/1.1" 200 -
+2023-10-23 00:39:17,085 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:39:17] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+2023-10-23 00:39:17,299 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:39:17] "[36mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-10-23 00:39:17,392 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:39:17] "[36mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-10-23 00:39:17,393 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:39:17] "[36mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-10-23 00:39:17,769 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:39:17] "GET /swagger.json HTTP/1.1" 200 -
+2023-10-23 00:39:17,771 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:39:17] "[36mGET /swaggerui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-10-23 00:39:47,384 - sqlalchemy.engine.Engine - INFO - SELECT DATABASE()
+2023-10-23 00:39:47,384 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2023-10-23 00:39:47,386 - sqlalchemy.engine.Engine - INFO - SELECT @@sql_mode
+2023-10-23 00:39:47,386 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2023-10-23 00:39:47,387 - sqlalchemy.engine.Engine - INFO - SELECT @@lower_case_table_names
+2023-10-23 00:39:47,387 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2023-10-23 00:39:47,388 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2023-10-23 00:39:47,392 - sqlalchemy.engine.Engine - INFO - SELECT admin.id AS admin_id, admin.email AS admin_email, admin.password AS admin_password 
+FROM admin 
+WHERE admin.email = %(email_1)s 
+ LIMIT %(param_1)s
+2023-10-23 00:39:47,393 - sqlalchemy.engine.Engine - INFO - [generated in 0.00097s] {'email_1': 'anjarwhydi@gmail.com', 'param_1': 1}
+2023-10-23 00:39:47,394 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2023-10-23 00:39:47,396 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:39:47] "[31m[1mPOST /auth/login HTTP/1.1[0m" 400 -
+2023-10-23 00:40:03,830 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2023-10-23 00:40:03,830 - sqlalchemy.engine.Engine - INFO - SELECT admin.id AS admin_id, admin.email AS admin_email, admin.password AS admin_password 
+FROM admin 
+WHERE admin.email = %(email_1)s 
+ LIMIT %(param_1)s
+2023-10-23 00:40:03,831 - sqlalchemy.engine.Engine - INFO - [cached since 16.44s ago] {'email_1': 'anjarwhydi@gmail', 'param_1': 1}
+2023-10-23 00:40:04,054 - test-logger - INFO - Data: {'email': 'anjarwhydi@gmail', 'password': 'string'}
+2023-10-23 00:40:04,055 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2023-10-23 00:40:04,056 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:40:04] "[35m[1mPOST /auth/login HTTP/1.1[0m" 201 -
+2023-10-23 00:40:17,422 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2023-10-23 00:40:17,422 - sqlalchemy.engine.Engine - INFO - SELECT admin.id AS admin_id, admin.email AS admin_email, admin.password AS admin_password 
+FROM admin
+2023-10-23 00:40:17,423 - sqlalchemy.engine.Engine - INFO - [generated in 0.00042s] {}
+2023-10-23 00:40:17,424 - test-logger - INFO - Data: [<Admin 1>]
+2023-10-23 00:40:17,425 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2023-10-23 00:40:17,425 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:40:17] "GET /admins HTTP/1.1" 200 -
+2023-10-23 00:41:02,109 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:41:02] "[31m[1mGET /admins/1 HTTP/1.1[0m" 401 -
+2023-10-23 00:41:07,540 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2023-10-23 00:41:07,541 - sqlalchemy.engine.Engine - INFO - SELECT admin.id AS admin_id, admin.email AS admin_email, admin.password AS admin_password 
+FROM admin 
+WHERE admin.id = %(pk_1)s
+2023-10-23 00:41:07,542 - sqlalchemy.engine.Engine - INFO - [generated in 0.00096s] {'pk_1': 1}
+2023-10-23 00:41:07,544 - test-logger - INFO - Data: <Admin 1>
+2023-10-23 00:41:07,544 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2023-10-23 00:41:07,545 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:41:07] "GET /admins/1 HTTP/1.1" 200 -
+2023-10-23 00:41:28,448 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2023-10-23 00:41:28,450 - sqlalchemy.engine.Engine - INFO - SELECT author.id AS author_id, author.name AS author_name 
+FROM author
+2023-10-23 00:41:28,450 - sqlalchemy.engine.Engine - INFO - [generated in 0.00047s] {}
+2023-10-23 00:41:28,451 - test-logger - INFO - Data: []
+2023-10-23 00:41:28,451 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2023-10-23 00:41:28,452 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2023 00:41:28] "GET /authors HTTP/1.1" 200 -
